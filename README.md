@@ -16,7 +16,7 @@ Duration of the meeting : 45 minutes
 
 Agenda of the meeting : Normal dicussion regarding our code features  and basic plan on how to proceed with the design.
 
-Attendees : 19240,19269,19256,19269
+Attendees : 19240,19269,19256,19263
 
 Platform of the meeting : Teams
 
