@@ -26,7 +26,7 @@ Duration of the meeting : 90 minutes
 
 Agenda of the meeting : Have drawn the basic database design and with the help of that design we have drawn use case diagram with the attriutes assumed.
 
-Attendees : 19240,19269,19263,19256
+Attendees : 19240,19269,19263,19256(All members are present throughtout the meeting)
 
 Tasks accomplised: all of our team members have planned out on the attributes required to be taken care of and drawn use case diagram
 
