@@ -49,7 +49,7 @@ software used for class diagram : draw.io
 
 Platform of the meeting : Offline (in college)
 
-# 4th meeting
+# 4th Discussion meeting
 
 Duration of the meeting : 1 hour
 
