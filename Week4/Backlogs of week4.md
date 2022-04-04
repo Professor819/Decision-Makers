@@ -12,6 +12,6 @@ C.S.S.Phanindra   : CREATE TABLE of OPEARATION AND CRIMINAL with some values ins
 
 # Tasks Accomplished by team members during this week:
 
-Finalised the database design and Divided the database Design into parts for furthur proceedings
+Finalised the database design and Divided the database Design into parts for all team members for furthur proceeding of the code.
 
 
