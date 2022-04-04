@@ -49,3 +49,13 @@ software used for class diagram : draw.io
 
 Platform of the meeting : Offline (in college)
 
+# 4th meeting
+
+Duration of the meeting : 1 hour
+
+Agenda of the meeting: We have started create tables for our database we may complete our database design by next week we have not yet completed creating all the tables so we have not yet uploaded our sql code yet
+
+Tasks accomplised : We have finalised our database design and ready to upload it by next week
+
+platform of the meeting : Offline (In college)
+
