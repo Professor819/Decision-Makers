@@ -1,0 +1,36 @@
+# Agency Management system 
+# Team - Decision_makers
+  karthik viswanadh,Satya rakesh,gnaneswara reddy,phanindra
+# User Stories
+     #User:
+     # 1)RETRIEVAL
+         # ->SELECTION
+              Retrieve the data containing about a specific operation or specific crime or specific victim
+              Ex: In “black-cat” operation: Jhon, Abraham, Lincoln, James took out dark killer Osama for justice of Andria.
+.        # ->PROJECTION
+              Query to enable the users to search the database by a particular attribute.
+              Ex: Retrieve data about the agents who retired. (>60yrs or dead)
+         # ->AGGREGATE
+              Maximum no of operations successful by an Agent.
+              Ex: The Track record of Mahesh babu is 100 encounters in 25 operations.
+         # ->SEARCH
+              Sometimes they may receive only a part of criminal’s name due to morse code constraints from spies so they need to match the strings in the database with obtained 
+              info.
+              Ex: Abdul is the name received. The actual name may be Abdul Rahim Azad etc.
+         # ->REPORT
+              
+              # 1)OPERATION REPORT:
+                    Operation report consists of details of criminals involved, agents involved in solving the case, victim details, and status of the operation.
+              # 2)AGENT EXCELLENCE:
+                    To award medals to the agent in annual meetings, his no of encounters should be calculated. And the top 5 may get rewards. Report shows these top 5 agents
+                    leaderboard.
+     # 2) MODIFICATION
+                # ->INSERT:
+                    They should be able to insert new-agent details, new case details which includes the victims, criminals and be able to create an operation instance.
+                # ->UPDATE:
+                     Encounters of an agent should be updated after every operation. Whenever required
+                     any attribute can be updated for convenience! (of course not the key attributes! )
+                # ->DELETE:
+                     Whenever an operation has been cancelled due to fraud intelligence, it is deleted from
+                     the database.
+     
