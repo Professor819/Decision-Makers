@@ -28,6 +28,10 @@ Agenda of the meeting : Have drawn the basic database design and with the help o
 
 Attendees : 19240,19269,19263,19256
 
+Tasks accomplised: all of our team members have planned out on the attributes required to be taken care of and drawn use case diagram
+
+software used for use-case diagram : draw.io
+
 Platform of the meeting : Teams
 
 
@@ -38,6 +42,10 @@ Duration of the meeting : 2 hours
 Agenda of the meeting : Discussed about the classes required for the project and have drawn a rough ER diagram with the help of that we have constructed our class diagram and also we have also discussed about some assumptions and updations to make in the diagrams and code while proceeding furthur.
 
 Attendees : 19240,19269,19263,19256
+
+Tasks done : 19240 and 19269 have drawn a basic database design and all members together have drawn class diagram
+
+software used for class diagram : draw.io
 
 Platform of the meeting : Offline (in college)
 
