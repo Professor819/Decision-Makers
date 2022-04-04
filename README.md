@@ -43,7 +43,7 @@ Agenda of the meeting : Discussed about the classes required for the project and
 
 Attendees : 19240,19269,19263,19256
 
-Tasks done : 19240 and 19269 have drawn a basic database design and all members together have drawn class diagram
+Tasks accomplished : 19240 and 19269 have drawn a basic database design and all members together have drawn class diagram
 
 software used for class diagram : draw.io
 
