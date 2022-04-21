@@ -66,7 +66,7 @@ Duration of the meeting: 1 hour
 Agenda of the meeting: We created a database called agency and we have created tables of the required attributes
 platform of the meeting : Offline(in college)
 
-#6th and 7th Discussion meeting
+# 6th and 7th Discussion meeting
 
 Duration of the meeting: 2 hours
 
