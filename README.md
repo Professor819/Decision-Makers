@@ -59,3 +59,16 @@ Tasks accomplised : We have finalised our database design and ready to upload it
 
 platform of the meeting : Offline (In college)
 
+# 5th Discussion meeting
+
+Duration of the meeting: 1 hour
+
+Agenda of the meeting: We created a database called agency and we have created tables of the required attributes
+platform of the meeting : Offline(in college)
+
+#6th and 7th Discussion meeting
+
+Duration of the meeting: 2 hours
+
+Agenda of the meeting: Connected Sql with program in vscode.
+platform of the meeting: offline(In college)
